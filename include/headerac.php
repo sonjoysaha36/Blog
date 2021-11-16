@@ -6,7 +6,7 @@
     </div>
     <ul class="nav navbar-nav">
       <li class=""><a href="index.php">Home</a></li>
-      <button class="btn btn-danger navbar-btn"><a href="sign.php">Sing in</a></button>
+      <button class="btn btn-danger navbar-btn"><a href="">Log out</a></button>
       
     </ul>
     
